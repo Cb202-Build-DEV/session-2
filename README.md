@@ -5,7 +5,7 @@ A tiny sandbox repo for practicing JavaScript
 **Where to write -> Syntax -> Variables -> Data Types -> Operators**
 
 ## For students
-👉 Start here: [INSTRUCTIONS.md](INSTRUCTIONS.md)
+👉 Start here: [INSTRUCTIONS.md]()
 
 ## What's in here
 
